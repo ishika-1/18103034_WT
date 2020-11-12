@@ -1,4 +1,4 @@
-var brackets_validator = (input_string) => {
+var brackets_validator = (input_string) => { 
 	
 	let stack = [];
 	for(let i=0;i<input_string.length;i++) {
